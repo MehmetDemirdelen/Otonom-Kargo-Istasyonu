@@ -2,7 +2,7 @@
 
 Bu depo, projenin detaylı raporunu, gömülü sistem (ESP32) ve arayüz yazılımlarının kaynak kodlarını içermektedir.
 
-📄 **[Proje Sonuç Raporunu İncelemek İçin Tıklayınız (PDF)](Docs/DSP_2209A_SONUC_RAPORU.pdf)**
+📄 **[Proje Sonuç Raporunu İncelemek İçin Tıklayınız (PDF)](Docs/DAP_FİNAL_RAPORU.pdf)**
 
 ## 1. Gömülü Sistem ve IoT Haberleşmesi (ESP32)
 Bu klasördeki kodlar; MQTT protokolü üzerinden dolap eşleştirme, Peltier modüllerinin kapalı çevrim PID kontrolü ve olası internet kesintilerinde veri kaybını önleyen hata tolerans (fail-safe) algoritmalarını içermektedir.
